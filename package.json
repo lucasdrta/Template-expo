@@ -1,5 +1,5 @@
 {
-  "name": "@lucasdrta/expo-template-ts",
+  "name": "@lucasdrta_/expo-template-ts",
   "version": "1.0.0",
   "description": "Expo Template with Typescript and Navigation.",
   "main": "node_modules/expo/AppEntry.js",
