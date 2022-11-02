@@ -9,6 +9,11 @@
     "react-navigation",
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdrta/Template-expo"
+  },
+  "homepage": "https://github.com/lucasdrta/Template-expo",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
