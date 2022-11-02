@@ -1,7 +1,14 @@
 {
-  "name": "template",
+  "name": "@lucasdrta/expo-template-ts",
   "version": "1.0.0",
+  "description": "Expo Template with Typescript and Navigation.",
   "main": "node_modules/expo/AppEntry.js",
+  "keywords": [
+    "expo",
+    "react-native",
+    "react-navigation",
+    "typescript"
+  ],
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -27,5 +34,5 @@
     "@types/react-native": "~0.69.1",
     "typescript": "~4.3.5"
   },
-  "private": true
+  "private": false
 }
